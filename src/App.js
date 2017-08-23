@@ -1,3 +1,6 @@
+// Navigating around React.js
+// Add more here when complete...
+
 import React, { Component } from 'react';
 import Projects from './Components/Projects';
 import AddProject from './Components/AddProject';
